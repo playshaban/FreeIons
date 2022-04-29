@@ -16,7 +16,7 @@ const Banner = () => {
         <Grid sx={styles.grid}>
           <Box sx={styles.content}>
             <Heading as="h3">
-              Great software is built with amazing developers
+              This belongs to Free Ions Services 
             </Heading>
             <Text as="p">
               We help build and manage a team of world-class developers to bring
